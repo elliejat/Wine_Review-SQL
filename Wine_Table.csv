@@ -1,0 +1,281 @@
+wine_id,country,price,province,region_1,region_2,variety,winery
+1,Italy,0,Sicily & Sardinia,Etna,,White Blend,Nicosia
+2,Portugal,15,Douro,,,Portuguese Red,Quinta dos Avidagos
+3,US,14,Oregon,Willamette Valley,Willamette Valley,Pinot Gris,Rainstorm
+4,US,13,Michigan,Lake Michigan Shore,,Riesling,St. Julian
+5,US,65,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Sweet Cheeks
+6,Spain,15,Northern Spain,Navarra,,Tempranillo-Merlot,Tandem
+7,Italy,16,Sicily & Sardinia,Vittoria,,Frappato,Terre di Giurfo
+8,France,24,Alsace,Alsace,,Gewurztraminer,Trimbach
+9,Germany,12,Rheinhessen,,,Gewurztraminer,Heinz Eifel
+10,France,27,Alsace,Alsace,,Pinot Gris,Jean-Baptiste Adam
+11,US,19,California,Napa Valley,Napa,Cabernet Sauvignon,Kirkland Signature
+12,France,30,Alsace,Alsace,,Gewurztraminer,Leon Beyer
+13,US,34,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Louis M. Martini
+14,Italy,0,Sicily & Sardinia,Etna,,Nerello Mascalese,Masseria Setteporte
+15,US,12,California,Central Coast,Central Coast,Chardonnay,Mirassou
+16,Germany,24,Mosel,,,Riesling,Richard Bocking
+17,Argentina,30,Other,Cafayate,,Malbec,Felix Lavaque
+18,Argentina,13,Mendoza Province,Mendoza,,Malbec,Gaucho Andino
+19,Spain,28,Northern Spain,Ribera del Duero,,Tempranillo Blend,Pradorey
+20,US,32,Virginia,Virginia,,Meritage,Quievremont
+21,US,23,Virginia,Virginia,,Red Blend,Quievremont
+22,US,20,Oregon,Oregon,Oregon Other,Pinot Noir,Acrobat
+23,Italy,19,Sicily & Sardinia,Sicilia,,White Blend,Baglio di Pianetto
+24,US,22,California,Paso Robles,Central Coast,Merlot,Bianchi
+25,Italy,35,Sicily & Sardinia,Sicilia,,Nero d'Avola,Canicatti
+26,US,69,California,Sonoma Coast,Sonoma,Pinot Noir,Castello di Amorosa
+27,Italy,13,Sicily & Sardinia,Terre Siciliane,,White Blend,Stemmari
+28,Italy,10,Sicily & Sardinia,Terre Siciliane,,Nero d'Avola,Stemmari
+29,Italy,17,Sicily & Sardinia,Cerasuolo di Vittoria,,Red Blend,Terre di Giurfo
+30,US,16,California,Clarksburg,Central Valley,Chenin Blanc,Clarksburg Wine Company
+31,France,0,Beaujolais,Beaujolais-Villages,,Gamay,Domaine de la Madone
+32,Italy,0,Sicily & Sardinia,Sicilia,,Red Blend,Duca di Salaparuta
+33,Italy,0,Sicily & Sardinia,Sicilia,,White Blend,Duca di Salaparuta
+34,US,50,California,Dry Creek Valley,Sonoma,Red Blend,Envolve
+35,US,20,California,Sonoma Valley,Sonoma,Sauvignon Blanc,Envolve
+36,US,50,Oregon,McMinnville,Willamette Valley,Pinot Noir,Erath
+37,Chile,15,Colchagua Valley,,,Viognier-Chardonnay,Estampa
+38,Italy,21,Sicily & Sardinia,Sicilia,,Cabernet Sauvignon,Feudi del Pisciotto
+39,Italy,11,Southern Italy,Puglia,,Primitivo,Feudi di San Marzano
+40,Italy,12,Sicily & Sardinia,Sicilia,,Nero d'Avola,Feudo di Santa Tresa
+41,Italy,17,Sicily & Sardinia,Sicilia,,Catarratto,Feudo Montoni
+42,US,22,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Hawkins Cellars
+43,France,9,Beaujolais,Beaujolais,,Gamay,Henry Fessy
+44,US,14,California,Paso Robles,Central Coast,Sauvignon Blanc,Robert Hall
+45,Chile,9,Maule Valley,,,Merlot,Sundance
+46,US,40,Virginia,Virginia,,Red Blend,Tarara
+47,Italy,13,Sicily & Sardinia,Sicilia,,Inzolia,Tasca d'Almerita
+48,US,13,California,Lake County,,Riesling,The White Knight
+49,US,16,Virginia,Monticello,,Sauvignon Blanc,Trump
+50,France,14,Beaujolais,Brouilly,,Gamay,Vignerons de Bel Air
+51,Italy,0,Sicily & Sardinia,Sicilia,,Red Blend,Viticultori Associati Canicatti
+52,Chile,22,Colchagua Valley,,,Petit Verdot,Casa Silva
+53,Italy,14,Sicily & Sardinia,Monica di Sardegna,,Monica,Cantine di Dolianova
+54,France,15,Bordeaux,Bordeaux Blanc,,Bordeaux-style White Blend,Chateau de Sours
+55,Italy,0,Sicily & Sardinia,Sicilia,,Red Blend,Corvo
+56,US,30,California,Napa Valley,Napa,Chardonnay,RustRidge
+57,US,14,California,North Coast,North Coast,Chardonnay,Souverain
+58,Italy,13,Sicily & Sardinia,Sicilia,,Grillo,Tasca d'Almerita
+59,Chile,13,Maipo Valley,,,Pinot Noir,Tres Palacios
+60,US,55,Washington,Columbia Valley (WA),Columbia Valley,Malbec,Mellisoni
+61,US,100,California,Napa Valley,Napa,Cabernet Sauvignon,Okapi
+62,Italy,17,Central Italy,Romagna,,Sangiovese,Podere dal Nespoli
+63,US,25,Washington,Columbia Valley (WA),Columbia Valley,Cabernet Franc,Ram
+64,France,58,Champagne,Champagne,,Champagne Blend,Roland Champion
+65,US,26,California,Santa Ynez Valley,Central Coast,Sauvignon Blanc,Sevtap
+66,France,24,Burgundy,Chablis,,Chardonnay,Simonnet-Febvre
+67,France,15,Burgundy,Macon-Milly Lamartine,,Chardonnay,Vignerons des Terres Secretes
+68,US,46,Washington,Columbia Valley (WA),Columbia Valley,Bordeaux-style Red Blend,Basel Cellars
+69,US,12,California,California,California Other,Red Blend,Cocobon
+70,France,55,Champagne,Champagne,,Champagne Blend,Collet
+71,US,12,Washington,Columbia Valley (WA),Columbia Valley,Chardonnay,Drumheller
+72,US,40,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Eco Terreno
+73,Italy,32,Southern Italy,Aglianico del Vulture,,Aglianico,Grifalco
+74,US,75,California,Howell Mountain,Napa,Cabernet Sauvignon,Hindsight
+75,US,55,California,Calistoga,Napa,Petite Sirah,Hindsight
+76,US,75,California,Napa Valley,Napa,Bordeaux-style Red Blend,Mulvane Wine Co.
+77,Germany,9,Rheinhessen,,,Riesling,Schmitt Sohne
+78,Australia,18,South Australia,South Australia,,Chardonnay,Yalumba
+79,US,25,Oregon,Eola-Amity Hills,Willamette Valley,Pinot Noir,Z'IVO
+80,Portugal,0,Tejo,,,Touriga Nacional,Adega Cooperativa do Cartaxo
+81,Chile,12,Rapel Valley,,,Carmenere,Aresti
+82,Spain,16,Galicia,Rias Baixas,,Albarino,Spyro
+83,France,11,France Other,Vin de France,,Petit Manseng,Lionel Osmin & Cie
+84,Australia,20,South Australia,McLaren Vale,,Rose,Mitolo
+85,US,24,California,Napa Valley,Napa,Zinfandel,Napa Cellars
+86,Germany,10,Rheinhessen,,,Riesling,P.J. Valckenberg
+87,US,20,Washington,Ancient Lakes,Columbia Valley,Albarino,Palencia
+88,US,55,California,Knights Valley,Sonoma,Merlot,Passaggio
+89,Italy,29,Tuscany,Vernaccia di San Gimignano,,Vernaccia,Poggio Alloro
+90,Italy,19,Tuscany,Toscana,,Rosato,Fattoria Sardi
+91,US,23,California,Sonoma County,Sonoma,Red Blend,Ferrari-Carano
+92,US,18,California,Sonoma Coast,Sonoma,Pinot Gris,Folie a Deux
+93,US,55,California,Napa Valley,Napa,Meritage,Franciscan
+94,Austria,12,Burgenland,,,Gruner Veltliner,Fuchs
+95,US,22,Washington,Columbia Valley (WA),Columbia Valley,Viognier,Gard
+96,France,20,Beaujolais,Julienas,,Gamay,Henry Fessy
+97,France,18,Beaujolais,Regnie,,Gamay,Henry Fessy
+98,US,20,New York,Finger Lakes,Finger Lakes,Riesling,Heron Hill
+99,Italy,30,Tuscany,Morellino di Scansano,,Sangiovese,Serpaia di Endrizzi
+100,US,75,California,Napa Valley,Napa,Bordeaux-style Red Blend,Soquel Vineyards
+101,US,18,New York,Finger Lakes,Finger Lakes,Pinot Gris,Ventosa
+102,US,20,New York,Finger Lakes,Finger Lakes,Riesling,Lamoreaux Landing
+103,US,20,New York,Finger Lakes,Finger Lakes,Riesling,Lamoreaux Landing
+104,Chile,18,Leyda Valley,,,Chardonnay,Leyda
+105,Italy,16,Tuscany,Toscana,,Red Blend,Madonna Alta
+106,Italy,14,Tuscany,Toscana,,White Blend,Marchesi Antinori
+107,Italy,30,Tuscany,Toscana,,Red Blend,Marchesi de' Frescobaldi
+108,Italy,18,Tuscany,Toscana,,Vermentino,Marchesi de' Frescobaldi
+109,US,26,California,Santa Clara Valley,Central Coast,Zinfandel,Martin Ranch
+110,Italy,30,Tuscany,Toscana,,Red Blend,Ornellaia
+111,France,23,Beaujolais,Brouilly,,Gamay,Pardon et Fils
+112,US,85,California,Yountville,Napa,Cabernet Sauvignon,Pina
+113,Italy,15,Tuscany,Toscana,,Red Blend,Podere Ciona
+114,Italy,19,Tuscany,Toscana,,White Blend,Poggioventoso
+115,US,18,California,Paso Robles,Central Coast,Bordeaux-style Red Blend,Pull
+116,US,18,California,Paso Robles,Central Coast,Chardonnay,Pull
+117,US,25,California,Santa Ynez Valley,Central Coast,Grenache Blanc,R2
+118,US,44,California,Central Coast,,Syrah,Rideau
+119,Italy,80,Tuscany,Toscana,,Red Blend,Tenuta Forconi
+120,France,80,Alsace,Alsace,,Riesling,Dopff & Irion
+121,Italy,70,Piedmont,Barolo,,Nebbiolo,Ceretto
+122,US,36,California,Alexander Valley,Sonoma,Chardonnay,Matrix
+123,US,39,California,Rockpile,Sonoma,Zinfandel,Mauritson
+124,Australia,40,South Australia,Padthaway,,Shiraz-Cabernet Sauvignon,Henry's Drive Vignerons
+125,US,45,California,Napa Valley,Napa,Cabernet Sauvignon,Silverado
+126,South Africa,45,Stellenbosch,,,Cabernet Sauvignon,Le Riche
+127,France,48,Alsace,Alsace,,Gewurztraminer,Pierre Sparr
+128,France,13,Alsace,Alsace,,White Blend,Pierre Sparr
+129,France,17,Alsace,Alsace,,Pinot Blanc,Kuentz-Bas
+130,South Africa,25,Stellenbosch,,,Bordeaux-style Red Blend,Camberley
+131,Italy,70,Piedmont,Barolo,,Nebbiolo,Ceretto
+132,France,20,Alsace,Alsace,,Alsace white blend,Dopff & Irion
+133,South Africa,30,Simonsberg-Stellenbosch,,,Cabernet Sauvignon,Delheim
+134,Italy,68,Piedmont,Barolo,,Nebbiolo,Poderi Luigi Einaudi
+135,US,78,California,Napa Valley,Napa,Cabernet Sauvignon,Clark-Clauden
+136,Italy,60,Piedmont,Barolo,,Nebbiolo,Giacomo Ascheri
+137,France,50,Bordeaux,Saint-Emilion,,Bordeaux-style Red Blend,Lassegue
+138,South Africa,0,Walker Bay,,,Chenin Blanc,Beaumont
+139,France,10,Alsace,Alsace,,Alsace white blend,Dopff & Irion
+140,France,112,Alsace,Alsace,,Pinot Gris,Kuentz-Bas
+141,Italy,26,Piedmont,Barbera d'Alba,,Barbera,Poderi Colla
+142,Italy,45,Piedmont,Barolo,,Nebbiolo,Giacomo Ascheri
+143,US,17,California,Santa Lucia Highlands,Central Coast,Riesling,Banyan
+144,France,84,Alsace,Alsace,,Pinot Gris,Domaine Zind-Humbrecht
+145,US,85,California,Spring Mountain District,Napa,Cabernet Sauvignon,Terra Valentine
+146,US,64,California,Santa Lucia Highlands,Central Coast,Pinot Noir,Testarossa
+147,US,68,California,Santa Ynez Valley,Central Coast,Cabernet Sauvignon,Vincent Vineyards
+148,US,68,California,Santa Ynez Valley,Central Coast,Cabernet Sauvignon,Vincent Vineyards
+149,Germany,16,Rheinhessen,,,Riesling,Weingut Liebfrauenstift
+150,US,35,California,Monterey,Central Coast,Rhone-style Red Blend,Wrath
+151,US,25,California,Napa Valley,Napa,Cabernet Sauvignon,Yardstick
+152,Portugal,30,Alentejano,,,Portuguese White,Herdade Grande
+153,US,55,California,Carmel Valley,Central Coast,Pinot Noir,Albatross Ridge
+154,US,46,California,Paso Robles,Central Coast,Syrah,Alta Colina
+155,Spain,50,Central Spain,Dominio de Valdepusa,,Graciano,Marques de Grinon
+156,US,36,California,Santa Cruz Mountains,Central Coast,Syrah,Big Basin
+157,Germany,14,Mosel,,,Riesling,Carl Graff
+158,Portugal,26,Alentejano,,,Portuguese Red,Casa Santa Vitoria
+159,Italy,38,Tuscany,Chianti Classico,,Sangiovese,Castello di Gabbiano
+160,Italy,0,Tuscany,Brunello di Montalcino,,Sangiovese,Castello Romitorio
+161,France,35,Southwest France,Cahors,,Malbec,Chateau Vincens
+162,US,35,California,Paso Robles,Central Coast,Red Blend,Chronic Cellars
+163,US,28,California,Edna Valley,Central Coast,Riesling,Claiborne & Churchill
+164,France,0,Beaujolais,Moulin-a-Vent,,Gamay,Collin-Bourisset
+165,Chile,29,Aconcagua Valley,,,Red Blend,Conde de Velazquez
+166,Chile,32,Maipo Valley,,,Cabernet Sauvignon,Cono Sur
+167,France,25,Southwest France,Madiran,,Tannat-Cabernet,Domaine Berthoumieu
+168,US,28,California,Paso Robles,Central Coast,Cabernet Franc,Dracaena
+169,US,95,California,Napa Valley,Napa,Merlot,Duckhorn
+170,US,44,California,Russian River Valley,Sonoma,Pinot Noir,Dutton-Goldfield
+171,Germany,30,Mosel,,,Riesling,Fritz Haag
+172,Germany,22,Mosel,,,Riesling,Fritz Haag
+173,Chile,20,Loncomilla Valley,,,Cabernet Sauvignon,G7
+174,US,38,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Le Cadeau
+175,New Zealand,19,Marlborough,,,Sauvignon Blanc,Stoneleigh
+176,Italy,25,Northeastern Italy,Alto Adige,,Sauvignon,Tenuta Peter Solva & Sohne
+177,Chile,50,Maipo Valley,,,Red Blend,TerraMater
+178,Italy,22,Tuscany,Chianti Classico,,Sangiovese,Isole e Olena
+179,US,25,California,Sonoma Valley,Sonoma,Syrah,Kenwood
+180,France,27,Burgundy,Chablis,,Chardonnay,La Chablisienne
+181,US,23,California,Santa Lucia Highlands,Central Coast,Chardonnay,Manzoni
+182,US,36,California,Arroyo Seco,Central Coast,Pinot Noir,McIntyre Vineyards
+183,Italy,0,Tuscany,Brunello di Montalcino,,Sangiovese Grosso,Abbadia Ardenga
+184,Argentina,12,Other,Salta,,Torrontes,Alamos
+185,US,35,California,Sonoma Coast,Sonoma,Chardonnay,Anaba
+186,Chile,15,Colchagua Valley,,,Carmenere,Apaltagua
+187,US,40,California,Anderson Valley,,Pinot Noir,Harrington
+188,Italy,48,Sicily & Sardinia,Sicilia,,Red Blend,Abbazia Santa Anastasia
+189,Chile,11,Colchagua Valley,,,Merlot,Vina Bisquertt
+190,Chile,11,Casablanca Valley,,,Chardonnay,Emiliana
+191,Italy,26,Southern Italy,Campania,,Red Blend,Fattoria Alois
+192,Australia,30,South Australia,Padthaway,,Cabernet Sauvignon,Henry's Drive Vignerons
+193,Italy,20,Veneto,Rosso del Veronese,,Red Blend,Aldegheri
+194,France,35,Burgundy,St.-Romain,,Chardonnay,Bertrand Ambroise
+195,Italy,0,Tuscany,Chianti Classico,,Sangiovese,Campomaggio
+196,Italy,35,Tuscany,Vino Nobile di Montepulciano,,Prugnolo Gentile,Carpineto
+197,Italy,18,Tuscany,Vernaccia di San Gimignano,,Vernaccia,Cesani
+198,South Africa,23,Western Cape,,,Chenin Blanc,Spier
+199,US,60,California,Napa Valley,Napa,Cabernet Sauvignon,Sequum
+200,US,28,California,Nevada County,Sierra Foothills,Cabernet Franc,Sierra Starr
+201,Italy,0,Tuscany,Brunello di Montalcino,,Sangiovese,Tenuta di Sesta
+202,Italy,62,Northeastern Italy,Alto Adige,,White Blend,Terlan
+203,Israel,50,Judean Hills,,,Syrah,Yatir
+204,Portugal,28,Alentejo,,,Portuguese Red,Adega Cooperativa de Borba
+205,US,30,California,Paso Robles,Central Coast,G-S-M,J. Lohr
+206,US,25,California,Arroyo Seco,Central Coast,Chardonnay,J. Lohr
+207,US,25,California,Napa Valley,Napa,Cabernet Sauvignon,Courtney Benham
+208,US,32,California,Dry Creek Valley,Sonoma,Zinfandel,Del Carlo Winery
+209,South Africa,40,Coastal Region,,,White Blend,Delaire Graff
+210,France,16,Rhone Valley,Cotes du Rhone,,Rhone-style Red Blend,Domaine St Pierre
+211,South Africa,20,Western Cape,,,Chardonnay,Eikendal
+212,France,32,Rhone Valley,Vacqueyras,,Rhone-style Red Blend,Famille Perrin
+213,Spain,40,Northern Spain,Rueda,,Verdejo,Matarromera
+214,US,48,California,Paso Robles,Central Coast,Red Blend,MCV
+215,US,36,California,Dry Creek Valley,Sonoma,Rhone-style Red Blend,Mounts
+216,Israel,80,Galilee,,,Bordeaux-style Red Blend,Or Haganuz
+217,Italy,57,Tuscany,Brunello di Montalcino,,Sangiovese,Podere Scopetone
+218,Portugal,20,Beira Atlantico,,,Portuguese Red,Quinta de Foz de Arouce
+219,US,20,California,Napa Valley,Napa,Fume Blanc,Robert Mondavi
+220,Hungary,36,Tokaj,,,Furmint,Samuel Tinon
+221,US,40,California,Sonoma Coast,Sonoma,Chardonnay,Sixteen by Twenty
+222,Italy,40,Northeastern Italy,Alto Adige,,Pinot Bianco,St. Pauls
+223,Italy,0,Tuscany,Brunello di Montalcino,,Sangiovese,Talenti
+224,Italy,0,Northeastern Italy,Alto Adige,,Pinot Bianco,Terlan
+225,Argentina,22,Mendoza Province,Lujan de Cuyo,,Malbec,Mendel
+226,South Africa,25,Stellenbosch,,,Chardonnay,Oldenburg
+227,South Africa,20,Stellenbosch,,,Chenin Blanc,Oldenburg
+228,US,15,New York,Finger Lakes,Finger Lakes,Pinot Noir,Wagner
+229,US,14,New York,Cayuga Lake,Finger Lakes,Riesling,Treleaven
+230,US,18,California,Napa Valley,Napa,Red Blend,Benessere
+231,US,16,New York,Finger Lakes,Finger Lakes,Gewurztraminer,Bloomer Creek
+232,Argentina,10,Mendoza Province,Mendoza,,Bonarda,Andean Sky
+233,Australia,12,South Australia,South Australia,,Shiraz,Angove's
+234,US,28,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Silvan Ridge
+235,Italy,10,Central Italy,Montepulciano d'Abruzzo,,Montepulciano,Talamonti
+236,US,49,California,Santa Barbara County,Central Coast,Syrah,Testarossa
+237,US,85,California,Diamond Mountain District,Napa,Cabernet Sauvignon,Meeker
+238,Italy,18,Central Italy,San Marino,,Moscato,Consorzio Vini Tipici di San Marino
+239,Australia,29,South Australia,McLaren Vale,,Grenache,D'Arenberg
+240,US,36,California,Mendocino,,Cabernet Sauvignon,Dogwood
+241,France,9,Southwest France,Vin de Pays des Cotes de Gascogne,,Ugni Blanc-Colombard,Domaine du Tariquet
+242,US,34,California,Napa Valley,Napa,Sangiovese,Falcor
+243,US,15,California,Russian River Valley,Sonoma,Chardonnay,Hayman & Hill
+244,US,30,New York,Finger Lakes,Finger Lakes,Chardonnay,Hermann J. Wiemer
+245,Spain,13,Northern Spain,Vino de la Tierra de Castilla y Leon,,Red Blend,J. & F. Lurton
+246,Argentina,12,Other,San Juan,,Chardonnay,Finca Las Moras
+247,Australia,15,South Australia,Adelaide Hills,,Sauvignon Blanc,Long Flat
+248,US,25,California,Sonoma Mountain,Sonoma,Merlot,Work
+249,US,45,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Amity
+250,US,18,Virginia,Monticello,,Bordeaux-style Red Blend,Autumn Hill
+251,US,49,California,Alexander Valley,Sonoma,Cabernet Sauvignon,Blue Rock
+252,US,22,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Cherry Hill
+253,US,35,California,Amador County,Sierra Foothills,Zinfandel,Cloud 9
+254,Argentina,15,Mendoza Province,Lujan de Cuyo,,Malbec,Cueva de las Manos
+255,US,45,California,St. Helena,Napa,Petite Sirah,David Fulton
+256,US,55,California,Cole Ranch,,Pinot Noir,Esterlina
+257,South Africa,20,Coastal Region,,,Syrah-Viognier,Goats do Roam Wine Co.
+258,South Africa,18,Coastal Region,,,Red Blend,Graham Beck
+259,South Africa,35,Stellenbosch,,,Cabernet Sauvignon,Hartenberg
+260,France,13,Southwest France,Cahors,,Malbec,Vignobles 46N118
+261,US,40,Oregon,Willamette Valley,Willamette Valley,Pinot Noir,Willamette Valley Vineyards
+262,Argentina,37,Mendoza Province,,,Red Blend,Algodon
+263,US,39,California,Napa Valley,Napa,Red Blend,Beaver Creek
+264,US,60,California,Santa Maria Valley,Central Coast,Pinot Noir,Byron
+265,South Africa,19,Stellenbosch,,,Syrah,Jardin
+266,South Africa,40,Stellenbosch,,,Chardonnay,Jardin
+267,Argentina,14,Mendoza Province,Mendoza,,Red Blend,Kaiken
+268,Italy,40,Central Italy,Torgiano,,White Blend,Lungarotti
+269,Italy,36,Veneto,Veneto,,White Blend,Marchesi Fumanelli
+270,Austria,17,Leithaberg,,,Blaufrankisch,Mariell
+271,Italy,25,Northeastern Italy,Colli Orientali del Friuli,,Friulano,Livio Felluga
+272,Greece,15,Santorini,,,Assyrtico,My Big Fat Greek Wine
+273,Italy,26,Northeastern Italy,Alto Adige,,Pinot Bianco,Nals Margreid
+274,Argentina,19,Mendoza Province,Uco Valley,,Red Blend,O. Fournier
+275,Italy,13,Piedmont,Monferrato,,White Blend,Pico Maccario
+276,Argentina,30,Mendoza Province,Mendoza,,Cabernet Sauvignon,Sottano
+277,US,20,California,Sonoma County,Sonoma,Zinfandel,St. Francis
+278,US,30,California,Napa Valley,Napa,Cabernet Sauvignon,Trailhead
+279,US,50,Oregon,Willamette Valley,,Pinot Noir,Erath
+280,Italy,52,Northeastern Italy,Alto Adige,,Sauvignon,Franz Haas
